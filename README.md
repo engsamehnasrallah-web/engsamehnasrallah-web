@@ -59,9 +59,9 @@ A system monitoring tool that displays CPU, RAM, Disk, and Host information.
 - [x] Network Scanner
 - [x] Linux Monitoring Tool
 - [x] Linux Monitoring Tool v1.1
+- [x] Backup Automation Tool
 
 ### In Progress
-- [ ] Backup Automation Tool
 
 ### Planned
 - [ ] Dockerized Web App
